@@ -21,6 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sxntyav&show_icons=true&locale=en" alt="sxntyav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sxntyav&" alt="sxntyav" /></p>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SxntyAv&theme=dark&show_icons=true)
