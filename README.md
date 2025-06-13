@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://x.com/sxntyav" target="blank"><img src="https://img.shields.io/twitter/follow/sxntyav?logo=twitter&style=for-the-badge" alt="sxntyav" /></a> </p>
 
 <ul>
-<li>🌱 I’m currently learning <strong>JavaScript</strong></li>
+<li>🌱 I’m currently learning <strong>JavaScript and React</strong></li>
 </ul>
 
 <h3 align="left">About Me</h3>
