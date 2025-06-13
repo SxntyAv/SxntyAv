@@ -11,7 +11,7 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">
-Soy un desarrollador de México apasionado por crear soluciones de software impactantes. Disfruto aprendiendo nuevas tecnologías y contribuyendo a proyectos de código abierto. Cuando no estoy programando, me gusta [agrega tus hobbies o intereses aquí, por ejemplo, explorar nuevas culturas, jugar ajedrez o leer blogs de tecnología].
+Soy un desarrollador de México apasionado por crear soluciones de software impactantes. Disfruto aprendiendo nuevas tecnologías y contribuyendo a proyectos de código abierto. Cuando no estoy programando, me gusta escuchar musica y jugar videojuegos 🎮🕹️.
 </p>
 
 <h3 align="left">Connect with me:</h3>
